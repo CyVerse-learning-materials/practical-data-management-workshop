@@ -11,7 +11,7 @@
 |02 - Metadata Standards||Mateusz? Rob?|Participants will learn how community and repository standards can be selected and implemented for their own datasets.|Hands-on/Discussion|00:30|
 |03 - Open Refine||Mateusz|Using the free and open-source software Open Refine, participants will explore how metadata can be organized and validated to comply with their choice of metadata standards.|Hands-on|01:45|
 |04 - CyVerse/COPO Metadata ||Jason/Ramona/Rob|Users will be guided through associating metadata with data on the CyVerse platform using its graphical interface to iRODS (a data storage technology used by several international repositories)|Hands-on|00:30|
-|05 - Repositories||Fotis? Rob? Allegra?|We will introduce popular repositories and the typical requirements for publication of datasets including choices of licensing.|Discussion|00:30|
+|05 - Repositories|Fotis|Fotis, Rob? Allegra?|We will introduce popular repositories and the typical requirements for publication of datasets including choices of licensing.|Discussion|00:30|
 |06 - CyVerse Publication||Jason/Ramona|Participants will be guided through making data available and citable (DOI issuing) on the CyVerse data store. We will also demonstrate publication directly from CyVerse to NCBI and also ENA using COPO.|Hands-on/Discussion|00:30|
 |07 - Preprints|Jason|Jason|We will discuss the evidence and some available solutions for making use of pre-prints and solutions for choosing a data license.|Discussion|00:30|
 |08 - Data Stewardship wizard|||Participants will start to summarize lessons learned by completing a Data Stewardship wizard and generating an updated data management plan|Hands-on|00:30|
@@ -232,7 +232,7 @@ workshop setup info.
 
 ----
 
-### Data management planning and summary 
+### Data management planning and summary
 
 **Draft learning objectives**:
 
