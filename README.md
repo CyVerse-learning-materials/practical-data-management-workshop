@@ -38,21 +38,32 @@ workshop setup info.
 
 **Draft learning objectives**:
 
+ - Understand the objectives for the workshop
+ - Understand the background and purpose of the CyVerse project
+ - List current European iniatives concerned with the promotion of open data in
+   the life sciences
+
 **Narrative**:
+
+This short overview will set the tone for the workshop. Learners should
+understand what our goals are, but realize that the materials are
+work-in-progress (and that we can be flexible). Learners should also know
+what are some European projects they might want to learn more about.
 
 **Dependencies from previous episode**:
 
- - Episode:
- - Dependency:
+None
 
 **Products/outputs for subsequent episodes**:
 
  - Product/output:
+   - Learners should confirm at this stage they have completed pre-workshop
+     setup items, and be invited to alert instructors to unresolved problems.
 
 **User setup notes**:
 
- - Tool/dataset/account:
- - Tool/dataset/account:
+ - Tool/dataset/account: CyVerse Account
+
 
 ----
 
@@ -126,21 +137,39 @@ workshop setup info.
 
 **Draft learning objectives**:
 
+ - Be able to download a metadata template
+ - Be able to complete a metadata template
+ - Be able upload a metadata template and associate metadata with data in CyVerse
+ - Be able to search for data within CyVerse using metadata descriptors
+ - Be able to share datasets within CyVerse
+
 **Narrative**:
+
+We will do an exercise in which learners complete a sample metadata template
+to annotate a sample dataset. They will then share these data with another
+CyVerse user.
+**Note**: If we are introducing COPO here we need to harmonize this use case.
+I also think we may need a little more time to accomplish this - and that
+could come from combining this episode with episode 07.
 
 **Dependencies from previous episode**:
 
- - Episode:
- - Dependency:
+ - Episode: 03 Metadata Standards
+ - Dependency: Awarness of metadata standards and basic metadata vocabulary
+ - Episode: 04 Open Refine
+ - Dependency: We can take a metadata CSV that has been cleaned in the Open
+   Refine lesson and use it as the example metadata template for this lesson
+
 
 **Products/outputs for subsequent episodes**:
 
  - Product/output:
+   - A dataset annotated with metadata
 
 **User setup notes**:
 
- - Tool/dataset/account:
- - Tool/dataset/account:
+ - Tool/dataset/account: CyVerse Account
+
 
 ----
 
@@ -170,21 +199,29 @@ workshop setup info.
 
 **Draft learning objectives**:
 
+- Understand the process for making data publicly available through CyVerse
+- Understand how CyVerse can be used to submit data to SRA
+- Understand how COPO can be used to submit data to ENA
+
 **Narrative**:
+
+Working from a completed metadata template, we will guide users through the
+steps for direct submission to sequence data repositories.
 
 **Dependencies from previous episode**:
 
- - Episode:
- - Dependency:
+ - Episode: 05 CyVerse/COPO/Metadata
+ - Dependency: Awarness of CyVerse metadata tools
 
 **Products/outputs for subsequent episodes**:
 
  - Product/output:
+   - Sample dataset annotated for SRA/ENA submission
 
 **User setup notes**:
 
- - Tool/dataset/account:
- - Tool/dataset/account:
+ - Tool/dataset/account: CyVerse Account
+
 
 ----
 
@@ -192,21 +229,26 @@ workshop setup info.
 
 **Draft learning objectives**:
 
+- Understand what preprints are
+- Understand the history of prepints in life sciences
+- Understand the benefits of preprints
+- Discuss the benefits (possible risks) or preprints
+
 **Narrative**:
+
+This will be a short lecture and discussion on preprints
 
 **Dependencies from previous episode**:
 
- - Episode:
- - Dependency:
+None
 
 **Products/outputs for subsequent episodes**:
 
- - Product/output:
+NA
 
 **User setup notes**:
 
- - Tool/dataset/account:
- - Tool/dataset/account:
+NA
 
 ----
 
@@ -232,7 +274,7 @@ workshop setup info.
 
 ----
 
-### Data management planning and summary 
+### Data management planning and summary
 
 **Draft learning objectives**:
 
