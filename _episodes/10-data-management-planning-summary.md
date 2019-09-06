@@ -1,16 +1,48 @@
 ---
-title: "Data management planning and summary"
-teaching: 105
-exercises: 0
+title: "Data Management Plans"
+
+teaching: 30
+
+exercises: 60
+
 questions:
-- "Key question (FIXME)"
+- "What are Data Management Plans?"
+- "Why are they important?"
+- "Why do you need to write and critique them?"
+
 objectives:
-- "First learning objective. (FIXME)"
+- "Understanding why funders are mandating DMPs"
+- "Identifying common and fixable pitfalls when writing a DMP"
+- "Spotting red flags and closed terminology when assessing a DMP"
+- "Providing actionable feedback"
+- "Understanding your responsibilities to adhere to your DMP"
+
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Participants will work in small teams to develop learning roadmaps to be implemented post-workshop"
+- "DMPs are useful tools to help you plan your overall strategy"
+- "How will the workshop change what you are now doing?"
+- "What questions do you still have?"
+- "What technologies would you like more information on?"
 ---
 
-Participants will work in small teams to develop learning roadmaps to be implemented post-workshop (How will the workshop change what they are now doing? What questions do they still have? What technologies would the like more information on? etc.). These will be shared and collected and the instructional team will leave additional feedback and suggestions on the maps during and shortly after the workshop.
+Data management planning and summary
 
+Draft learning objectives:
+
+Narrative:
+
+Dependencies from previous episode:
+
+    Episode:
+    Dependency:
+
+Products/outputs for subsequent episodes:
+
+    Product/output:
+
+User setup notes:
+
+    Tool/dataset/account:
+    Tool/dataset/account:
 
 {% include links.md %}
